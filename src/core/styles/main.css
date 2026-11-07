@@ -1,0 +1,21 @@
+.box {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black
+}
+
+.blank {
+    background-color: White;
+}
+
+.gray {
+    background-color: DimGray;
+}
+
+.yellow {
+    background-color: Khaki;
+}
+
+.green {
+    background-color: LightGreen;
+}
